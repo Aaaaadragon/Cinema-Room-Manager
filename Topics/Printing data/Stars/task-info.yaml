@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: a
+- text: b
+- text: c
+- text: d
+- text: e
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3764#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 24 May 2022 14:55:35 UTC
+record: -1
+selected_options:
+- 3

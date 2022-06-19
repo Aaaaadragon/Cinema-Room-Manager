@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Cats_are_robots.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-From_0_to_4.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Cats are robots" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/From 0 to 4" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Stars" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game" />
+            <option value="$PROJECT_DIR$/Topics/Printing data/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
