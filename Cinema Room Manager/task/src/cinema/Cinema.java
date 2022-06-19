@@ -137,7 +137,6 @@ public class Cinema {
         System.out.println("Number of purchased tickets: " + soldTickets);
         float soldTicketsPercentage = (float) soldTickets / (float) numberOfSeats * 100f;
         System.out.printf("Percentage: %.2f%%%n", soldTicketsPercentage);
-//        System.out.println("Percentage: " + soldTicketsPercentage + "%");
         System.out.println("Current income: $" + currentIncome);
         System.out.println("Total income: $" + totalIncome);
     }
